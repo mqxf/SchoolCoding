@@ -1,4 +1,4 @@
-package dev.mqxf.school.sep7Veg;
+package dev.mqxf.school.sep7;
 
 import lombok.SneakyThrows;
 

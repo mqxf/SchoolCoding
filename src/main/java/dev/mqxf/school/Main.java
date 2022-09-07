@@ -1,6 +1,6 @@
 package dev.mqxf.school;
 
-import dev.mqxf.school.sep7Veg.Vegetable;
+import dev.mqxf.school.sep7.Vegetable;
 
 public class Main {
 
